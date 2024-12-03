@@ -1,0 +1,14 @@
+C:\Users\maria\Desktop\December\RPG\RPG_GO\bin\Debug\net9.0\RPG_GO.exe
+C:\Users\maria\Desktop\December\RPG\RPG_GO\bin\Debug\net9.0\RPG_GO.deps.json
+C:\Users\maria\Desktop\December\RPG\RPG_GO\bin\Debug\net9.0\RPG_GO.runtimeconfig.json
+C:\Users\maria\Desktop\December\RPG\RPG_GO\bin\Debug\net9.0\RPG_GO.dll
+C:\Users\maria\Desktop\December\RPG\RPG_GO\bin\Debug\net9.0\RPG_GO.pdb
+C:\Users\maria\Desktop\December\RPG\RPG_GO\obj\Debug\net9.0\RPG_GO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\Desktop\December\RPG\RPG_GO\obj\Debug\net9.0\RPG_GO.AssemblyInfoInputs.cache
+C:\Users\maria\Desktop\December\RPG\RPG_GO\obj\Debug\net9.0\RPG_GO.AssemblyInfo.cs
+C:\Users\maria\Desktop\December\RPG\RPG_GO\obj\Debug\net9.0\RPG_GO.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\December\RPG\RPG_GO\obj\Debug\net9.0\RPG_GO.dll
+C:\Users\maria\Desktop\December\RPG\RPG_GO\obj\Debug\net9.0\refint\RPG_GO.dll
+C:\Users\maria\Desktop\December\RPG\RPG_GO\obj\Debug\net9.0\RPG_GO.pdb
+C:\Users\maria\Desktop\December\RPG\RPG_GO\obj\Debug\net9.0\RPG_GO.genruntimeconfig.cache
+C:\Users\maria\Desktop\December\RPG\RPG_GO\obj\Debug\net9.0\ref\RPG_GO.dll
